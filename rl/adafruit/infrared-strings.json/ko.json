@@ -1,0 +1,9 @@
+{
+    "network.infraredSendNumber|block": "",
+    "network.onInfraredPacketReceived|block": "",
+    "network.onInfraredReceivedNumber|block": "",
+    "network|block": "",
+    "{id:category}InfraredPacket": "적외선 패킷",
+    "{id:category}Network": "네트워크",
+    "{id:group}Infrared": "적외선"
+}

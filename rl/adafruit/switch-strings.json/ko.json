@@ -1,0 +1,9 @@
+{
+    "SwitchDirection.Left|block": "왼쪽",
+    "SwitchDirection.Right|block": "오른쪽",
+    "input.onSwitchMoved|block": "",
+    "input.switchRight|block": "",
+    "input|block": "입력",
+    "{id:category}Input": "입력",
+    "{id:group}Switch": ""
+}

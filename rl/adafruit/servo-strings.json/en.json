@@ -1,0 +1,9 @@
+{
+    "servos.A1|block": "",
+    "servos.A2|block": "",
+    "servos.Servo.run|block": "",
+    "servos.Servo.setAngle|block": "",
+    "servos.Servo.setPulse|block": "",
+    "{id:category}Servos": "",
+    "{id:group}Servos": ""
+}

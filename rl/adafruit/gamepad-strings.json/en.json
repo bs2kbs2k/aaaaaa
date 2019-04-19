@@ -1,0 +1,20 @@
+{
+    "GamepadButton.Down|block": "",
+    "GamepadButton.LeftBumper|block": "",
+    "GamepadButton.LeftStick|block": "",
+    "GamepadButton.LeftTrigger|block": "",
+    "GamepadButton.Left|block": "",
+    "GamepadButton.RightBumer|block": "",
+    "GamepadButton.RightStick|block": "",
+    "GamepadButton.RightTrigger|block": "",
+    "GamepadButton.Right|block": "",
+    "GamepadButton.Select|block": "",
+    "GamepadButton.Start|block": "",
+    "GamepadButton.Up|block": "",
+    "gamepad.button|block": "",
+    "gamepad.move|block": "",
+    "gamepad.setButton|block": "",
+    "gamepad.setThrottle|block": "",
+    "gamepad|block": "",
+    "{id:category}Gamepad": ""
+}

@@ -1,0 +1,9 @@
+{
+    "network.infraredSendNumber|block": "",
+    "network.onInfraredPacketReceived|block": "",
+    "network.onInfraredReceivedNumber|block": "",
+    "network|block": "",
+    "{id:category}InfraredPacket": "",
+    "{id:category}Network": "",
+    "{id:group}Infrared": ""
+}

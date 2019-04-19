@@ -1,0 +1,10 @@
+{
+    "LightCondition.Bright|block": "",
+    "LightCondition.Dark|block": "",
+    "input.lightLevel|block": "",
+    "input.onLightConditionChanged|block": "",
+    "input.setLightThreshold|block": "",
+    "input|block": "",
+    "{id:category}Input": "",
+    "{id:group}More": ""
+}
