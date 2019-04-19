@@ -1,8 +1,0 @@
-{
-    "game.reset|block": "",
-    "game.runtime|block": "",
-    "game|block": "게임",
-    "{id:category}Game": "게임",
-    "{id:category}Sprites": "스프라이트",
-    "{id:group}Gameplay": "게임플레이"
-}

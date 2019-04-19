@@ -1,3 +1,0 @@
-# index Of
-
-Not implemented

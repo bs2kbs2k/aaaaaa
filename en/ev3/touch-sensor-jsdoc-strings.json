@@ -1,7 +1,0 @@
-{
-    "sensors.TouchSensor.isPressed": "",
-    "sensors.TouchSensor.onEvent": "",
-    "sensors.TouchSensor.onEvent|param|body": "",
-    "sensors.TouchSensor.pauseUntil": "",
-    "sensors.TouchSensor.wasPressed": ""
-}

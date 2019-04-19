@@ -1,3 +1,0 @@
-# compare
-
-Not implemented

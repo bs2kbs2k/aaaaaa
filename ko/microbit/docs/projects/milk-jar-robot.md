@@ -1,3 +1,0 @@
-# 우유통 로봇
-
-This project has moved to [Milk Carton Robot](/projects/milk-carton-robot)...

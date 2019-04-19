@@ -1,7 +1,0 @@
-{
-    "shapes.circle|block": "원 모양 만들기: %block=minecraftBlock|중심 %center=minecraftCreatePosition|반지름 %radius|방향 %orientation|모드타입 %operator",
-    "shapes.line|block": "선 모양 만들기: %block=minecraftBlock|시작 %p0=minecraftCreatePosition|끝 %p1=minecraftCreatePosition",
-    "shapes.sphere|block": "공 모양 만들기: %block=minecraftBlock|중심 %center=minecraftCreatePosition|반지름 %radius|모드타입 %operator",
-    "shapes|block": "모양",
-    "{id:category}Shapes": "모양"
-}

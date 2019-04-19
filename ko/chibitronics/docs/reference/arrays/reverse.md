@@ -1,3 +1,0 @@
-# reverse
-
-Not implemented

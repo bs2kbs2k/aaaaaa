@@ -1,3 +1,0 @@
-# Arrays
-
-Not implemented

@@ -1,7 +1,0 @@
-{
-    "sensors.GyroSensor.angle": "",
-    "sensors.GyroSensor.drift": "",
-    "sensors.GyroSensor.rate": "",
-    "sensors.GyroSensor.reset": "",
-    "sensors.GyroSensor.setDriftCorrection": ""
-}

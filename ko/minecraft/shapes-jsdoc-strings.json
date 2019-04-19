@@ -1,8 +1,0 @@
-{
-    "shapes": "선, 원, 공 모양이나 다른 기하학적 모양을 만듭니다.",
-    "shapes.circle": "중심점을 중심으로 원 모양을 만듭니다.",
-    "shapes.circle|param|radius": "원의 반지름, 예: 5, 6, 7(정수값 입력)",
-    "shapes.line": "시작 위치부터 끝 위치까지 선 모양을 만듭니다.",
-    "shapes.sphere": "중심점을 중심으로 공 모양을 만듭니다.",
-    "shapes.sphere|param|radius": "공 모양의 반지름, 예: 5, 6, 7(정수값 입력)"
-}

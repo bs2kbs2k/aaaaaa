@@ -1,7 +1,0 @@
-{
-    "servos.Servo.run|block": "",
-    "servos.Servo.setAngle|block": "",
-    "servos.Servo.setPulse|block": "",
-    "{id:category}Servos": "",
-    "{id:group}Servos": ""
-}

@@ -1,3 +1,0 @@
-# Array.Get
-
-Not implemented

@@ -1,9 +1,0 @@
-{
-    "Button.id": "",
-    "Button.isPressed": "",
-    "Button.onEvent": "",
-    "Button.onEvent|param|body": "",
-    "Button.wasPressed": "",
-    "ButtonEvent": "",
-    "DigitalInOutPin.pushButton": ""
-}
