@@ -1,0 +1,7 @@
+{
+    "network": "",
+    "network.cablePacket": "",
+    "network.cableSendPacket": "",
+    "network.onCableError": "",
+    "network.onCablePacket": ""
+}

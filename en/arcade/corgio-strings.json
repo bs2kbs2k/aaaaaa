@@ -1,0 +1,21 @@
+{
+    "Corgio.addToScript|block": "",
+    "Corgio.bark|block": "",
+    "Corgio.decelerationRate|block": "",
+    "Corgio.follow|block": "",
+    "Corgio.gravity|block": "",
+    "Corgio.horizontalMovement|block": "",
+    "Corgio.jumpVelocity|block": "",
+    "Corgio.maxJump|block": "",
+    "Corgio.maxMoveVelocity|block": "",
+    "Corgio.sprite|block": "",
+    "Corgio.updateSprite|block": "",
+    "Corgio.verticalMovement|block": "",
+    "corgio.create|block": "",
+    "corgio|block": "",
+    "{id:category}Corgio": "",
+    "{id:group}Create": "",
+    "{id:group}Movement": "",
+    "{id:group}Properties": "",
+    "{id:group}Speak": ""
+}

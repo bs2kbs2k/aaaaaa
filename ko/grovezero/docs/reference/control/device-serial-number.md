@@ -1,0 +1,21 @@
+# 장치 시리얼 번호
+
+Get the serial number for the @boardname@
+
+```sig
+control.deviceSerialNumber()
+```
+
+The system software in your board creates a unique number to identify the board. You can use this number in your program if you want to know which board is running your program.
+
+## 리턴값
+
+* a [number](/types/number) that is created to uniquely identify this board.
+
+## 예시
+
+Write the board serial number to the serial port.
+
+```blocks
+serial.writeValue("serialnumber", control.deviceSerialNumber());
+```

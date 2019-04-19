@@ -1,0 +1,22 @@
+{
+    "builder.copy|block": "빌더 위치마크부터 모든 블록 복사",
+    "builder.face|block": "빌더가 바라보기|%direction",
+    "builder.fill|block": "빌더 위치마크부터 %block=minecraftBlock | 채우기",
+    "builder.line|block": "빌더 위치마크부터 %block=minecraftBlock | 라인 만들기",
+    "builder.mark|block": "빌더 위치마크 생성",
+    "builder.move|block": "빌더 이동 방향 %direction| 거리 %blocks",
+    "builder.paste|block": "빌더 모든 블록 붙여넣기",
+    "builder.place|block": "블록 놓기 %block=minecraftBlock",
+    "builder.popState|block": "빌더 상태 불러오기",
+    "builder.position|block": "빌더 절대좌표",
+    "builder.pushState|block": "빌더 상태 집어넣기",
+    "builder.raiseWall|block": "빌더 위치마크부터 %block=minecraftBlock | 벽 세우기|높이 %height",
+    "builder.setOrigin|block": "빌더 위치를 시작점으로 설정",
+    "builder.shift|block": "빌더 이동 앞으로 %forward| 위로 %up| 왼쪽으로 %left",
+    "builder.teleportToOrigin|block": "빌더 텔레포트: 시작점",
+    "builder.teleportTo|block": "빌더 텔레포트:|%position=minecraftCreatePosition",
+    "builder.tracePath|block": "빌더 위치마크부터 이동한 경로에 %block=minecraftBlock | 블록 놓기",
+    "builder.turn|block": "빌더 돌기|%direction",
+    "builder|block": "빌더",
+    "{id:category}Builder": "빌더"
+}

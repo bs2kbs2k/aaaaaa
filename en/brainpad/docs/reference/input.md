@@ -1,0 +1,15 @@
+# @extends
+
+## #lightsensor
+
+```cards
+input.onLightConditionChanged(LightCondition.Dark, () => {
+
+})
+input.lightLevel()
+input.ambientColor()
+```
+
+```package
+brainpad
+```

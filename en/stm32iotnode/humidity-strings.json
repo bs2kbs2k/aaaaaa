@@ -1,0 +1,9 @@
+{
+    "HumidityCondition.Dry|block": "",
+    "HumidityCondition.Wet|block": "",
+    "input.humidity|block": "",
+    "input.onHumidityConditionChanged|block": "",
+    "input|block": "",
+    "{id:category}Input": "",
+    "{id:group}More": ""
+}

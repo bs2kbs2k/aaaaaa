@@ -1,0 +1,5 @@
+# 한글화 번역을 함께 해보세요.
+
+Our translations are managed via Crowdin, a translation management platform. It is free to join and you can volunteer to translate parts of the web site.
+
+See the [Microsoft MakeCode translation](https://makecode.com/translate) page for more information.

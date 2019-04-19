@@ -1,0 +1,11 @@
+{
+    "input.button1|block": "",
+    "input.button2|block": "",
+    "input.button3|block": "",
+    "input.button4|block": "",
+    "input.buttonE0|block": "",
+    "input.buttonE1|block": "",
+    "{id:category}Config": "설정",
+    "{id:category}Input": "입력",
+    "{id:category}Pins": "핀"
+}

@@ -1,0 +1,12 @@
+{
+    "MouseButton.Left|block": "",
+    "MouseButton.Middle|block": "",
+    "MouseButton.Right|block": "",
+    "jacdac.mouseService|block": "",
+    "mouse.move|block": "",
+    "mouse.setButton|block": "",
+    "mouse.turnWheel|block": "",
+    "mouse|block": "",
+    "{id:category}Jacdac": "",
+    "{id:category}Mouse": ""
+}

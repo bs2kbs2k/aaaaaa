@@ -1,0 +1,14 @@
+{
+    "display.clear|block": "",
+    "display.graphClear|block": "",
+    "display.graph|block": "",
+    "display.showConsole|block": "",
+    "display.showImage|block": "",
+    "display.showNumber|block": "",
+    "display.showString|block": "",
+    "display.showValue|block": "",
+    "display|block": "",
+    "{id:category}Display": "디스플레이",
+    "{id:group}Charts": "",
+    "{id:group}Screen": "Screen"
+}

@@ -1,0 +1,12 @@
+{
+    "display.clear|block": "",
+    "display.graphClear|block": "",
+    "display.graph|block": "",
+    "display.showConsole|block": "",
+    "display.showNumber|block": "",
+    "display.showString|block": "",
+    "display.showValue|block": "",
+    "display|block": "",
+    "{id:category}Display": "",
+    "{id:group}Charts": ""
+}

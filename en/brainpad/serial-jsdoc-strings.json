@@ -1,0 +1,16 @@
+{
+    "serial": "",
+    "serial.attachToConsole": "",
+    "serial.readString": "",
+    "serial.redirect": "",
+    "serial.redirect|param|rx": "",
+    "serial.redirect|param|tx": "",
+    "serial.setBaudRate": "",
+    "serial.writeBuffer": "",
+    "serial.writeLine": "",
+    "serial.writeNumber": "",
+    "serial.writeString": "",
+    "serial.writeValue": "",
+    "serial.writeValue|param|name": "",
+    "serial.writeValue|param|value": ""
+}

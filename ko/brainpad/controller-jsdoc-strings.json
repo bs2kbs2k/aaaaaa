@@ -1,0 +1,11 @@
+{
+    "controller": "",
+    "controller.Button.isPressed": "",
+    "controller.Button.onEvent": "",
+    "controller.Button.pauseUntil": "",
+    "controller.dx": "",
+    "controller.dx|param|step": "",
+    "controller.dy": "",
+    "controller.dy|param|step": "",
+    "controller.pauseUntilAnyButtonIsPressed": ""
+}

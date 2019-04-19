@@ -1,0 +1,14 @@
+{
+    "input.buttonDown|block": "",
+    "input.buttonLeft|block": "",
+    "input.buttonRight|block": "",
+    "input.buttonUp|block": "",
+    "input|block": "입력",
+    "servos.servo1|block": "",
+    "servos.servo2|block": "",
+    "{id:category}Config": "설정",
+    "{id:category}Images": "이미지",
+    "{id:category}Input": "입력",
+    "{id:category}Pins": "핀",
+    "{id:category}Servos": "서보"
+}

@@ -1,0 +1,10 @@
+{
+    "LightCondition.Bright|block": "",
+    "LightCondition.Dark|block": "",
+    "input.lightLevel|block": "LED 스크린 빛 센서",
+    "input.onLightConditionChanged|block": "",
+    "input.setLightThreshold|block": "",
+    "input|block": "입력",
+    "{id:category}Input": "입력",
+    "{id:group}More": "더 보기"
+}

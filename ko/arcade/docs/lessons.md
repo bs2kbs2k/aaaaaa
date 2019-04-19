@@ -1,0 +1,26 @@
+# 레슨
+
+## 튜토리얼 따라해보기
+
+```codecard
+[
+{
+  "name": "Cherry Pickr",
+  "description": "Learn the basics of creating a game",
+  "url": "/lessons/cherry-pickr",
+  "cardType": "lesson",
+  "imageUrl": "/static/lessons/cherry-pickr.png"
+},
+{
+  "name": "Barrel Dodger",
+  "description": "Use the sprite editor to make player, tile, and enemy images",
+  "url": "/lessons/barrel-dodger",
+  "cardType": "lesson",
+  "imageUrl": "/static/lessons/barrel-dodger.png"
+}
+]
+```
+
+## 참고 항목
+
+[Cherry Pickr](/lessons/cherry-pickr), [Barrel Dodger](/lessons/barrel-dodger)

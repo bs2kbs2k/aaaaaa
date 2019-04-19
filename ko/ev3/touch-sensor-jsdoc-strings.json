@@ -1,0 +1,7 @@
+{
+    "sensors.TouchSensor.isPressed": "",
+    "sensors.TouchSensor.onEvent": "",
+    "sensors.TouchSensor.onEvent|param|body": "이벤트가 일어나면 실행되는 코드입니다.",
+    "sensors.TouchSensor.pauseUntil": "",
+    "sensors.TouchSensor.wasPressed": ""
+}

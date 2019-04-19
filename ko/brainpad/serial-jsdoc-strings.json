@@ -1,0 +1,16 @@
+{
+    "serial": "시리얼통신 연결을 통해 데이터를 읽어오고 출력합니다.",
+    "serial.attachToConsole": "",
+    "serial.redirect": "",
+    "serial.redirect|param|rate": "새로운 전송(baud) 속도. 예시: 115200",
+    "serial.redirect|param|rx": "새로운 수신 핀, 예시: 시리얼핀.P1",
+    "serial.redirect|param|tx": "",
+    "serial.setBaudRate": "",
+    "serial.writeBuffer": "",
+    "serial.writeLine": "",
+    "serial.writeNumber": "",
+    "serial.writeString": "",
+    "serial.writeValue": "",
+    "serial.writeValue|param|name": "",
+    "serial.writeValue|param|value": "쓰기"
+}

@@ -1,0 +1,22 @@
+{
+    "Math|block": "",
+    "String.charAt|block": "",
+    "String.compare|block": "",
+    "String.concat|block": "",
+    "String.fromCharCode|block": "",
+    "String.isEmpty|block": "",
+    "String.length|block": "",
+    "String.substr|block": "",
+    "String|block": "",
+    "console|block": "",
+    "drawing.forever|block": "",
+    "drawing.forward|block": "",
+    "drawing.pause|block": "",
+    "drawing.turn|block": "",
+    "drawing|block": "",
+    "{id:category}Console": "",
+    "{id:category}Drawing": "",
+    "{id:category}Math": "",
+    "{id:category}String": "",
+    "{id:category}Text": ""
+}

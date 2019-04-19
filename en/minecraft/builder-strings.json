@@ -1,0 +1,22 @@
+{
+    "builder.copy|block": "",
+    "builder.face|block": "",
+    "builder.fill|block": "",
+    "builder.line|block": "",
+    "builder.mark|block": "",
+    "builder.move|block": "",
+    "builder.paste|block": "",
+    "builder.place|block": "",
+    "builder.popState|block": "",
+    "builder.position|block": "",
+    "builder.pushState|block": "",
+    "builder.raiseWall|block": "",
+    "builder.setOrigin|block": "",
+    "builder.shift|block": "",
+    "builder.teleportToOrigin|block": "",
+    "builder.teleportTo|block": "",
+    "builder.tracePath|block": "",
+    "builder.turn|block": "",
+    "builder|block": "",
+    "{id:category}Builder": ""
+}

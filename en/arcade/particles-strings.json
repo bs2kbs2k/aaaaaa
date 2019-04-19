@@ -1,0 +1,12 @@
+{
+    "particles.ParticleSource.setAcceleration|block": "",
+    "particles.ParticleSource.setEnabled|block": "",
+    "particles.ParticleSource.setFactory|block": "",
+    "particles.ParticleSource.setRate|block": "",
+    "particles.createParticleSource|block": "",
+    "particles.sprayFactory|block": "",
+    "particles|block": "",
+    "{id:category}Particles": "",
+    "{id:group}Properties": "",
+    "{id:group}Sources": ""
+}

@@ -1,0 +1,10 @@
+{
+    "MouseButton.Left|block": "",
+    "MouseButton.Middle|block": "",
+    "MouseButton.Right|block": "",
+    "mouse.move|block": "",
+    "mouse.setButton|block": "",
+    "mouse.turnWheel|block": "",
+    "mouse|block": "",
+    "{id:category}Mouse": ""
+}

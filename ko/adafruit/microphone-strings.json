@@ -1,0 +1,10 @@
+{
+    "LoudnessCondition.Loud|block": "",
+    "LoudnessCondition.Quiet|block": "",
+    "input.onLoudSound|block": "",
+    "input.setLoudSoundThreshold|block": "",
+    "input.soundLevel|block": "",
+    "input|block": "입력",
+    "{id:category}Input": "입력",
+    "{id:group}More": "더 보기"
+}

@@ -1,0 +1,14 @@
+{
+    "input.buttonA0|block": "",
+    "input.buttonA1|block": "",
+    "input.buttonA2|block": "",
+    "input.buttonA3|block": "",
+    "input.touchD0|block": "",
+    "input.touchD1|block": "",
+    "input.touchD2|block": "",
+    "input.touchD3|block": "",
+    "input|block": "",
+    "{id:category}Config": "",
+    "{id:category}Input": "",
+    "{id:category}Pins": ""
+}

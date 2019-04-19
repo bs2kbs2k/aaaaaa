@@ -1,0 +1,17 @@
+{
+    "bluetooth.onBluetoothConnected|block": "",
+    "bluetooth.onBluetoothDisconnected|block": "",
+    "bluetooth.startAccelerometerService|block": "",
+    "bluetooth.startButtonService|block": "",
+    "bluetooth.startIOPinService|block": "",
+    "bluetooth.startLEDService|block": "",
+    "bluetooth.startMagnetometerService|block": "",
+    "bluetooth.startTemperatureService|block": "",
+    "bluetooth.startUartService|block": "",
+    "bluetooth.uartReadUntil|block": "",
+    "bluetooth.uartWriteNumber|block": "",
+    "bluetooth.uartWriteString|block": "",
+    "bluetooth.uartWriteValue|block": "",
+    "bluetooth|block": "",
+    "{id:category}Bluetooth": ""
+}

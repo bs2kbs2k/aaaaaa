@@ -1,0 +1,17 @@
+{
+    "CablePacket.receivedBuffer": "",
+    "CablePacket.receivedNumber": "",
+    "CablePacket.receivedNumbers": "",
+    "network": "",
+    "network.cablePacket": "",
+    "network.cableSendNumber": "",
+    "network.cableSendNumbers": "",
+    "network.cableSendNumber|param|value": "",
+    "network.cableSendPacket": "",
+    "network.onCableError": "",
+    "network.onCablePacket": "",
+    "network.onCablePacketReceived": "",
+    "network.onCableReceivedBuffer": "",
+    "network.onCableReceivedNumber": "",
+    "network.onCableReceivedNumbers": ""
+}

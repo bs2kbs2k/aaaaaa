@@ -1,0 +1,23 @@
+{
+    "datalogger": "",
+    "datalogger.FileStorage": "",
+    "datalogger.FileStorage.appendHeaders": "",
+    "datalogger.FileStorage.appendRow": "",
+    "datalogger.FileStorage.flush": "",
+    "datalogger.FileStorage.init": "",
+    "datalogger.Storage": "",
+    "datalogger.Storage.appendHeaders": "",
+    "datalogger.Storage.appendRow": "",
+    "datalogger.Storage.flush": "",
+    "datalogger.Storage.init": "",
+    "datalogger.addRow": "",
+    "datalogger.addValue": "",
+    "datalogger.addValue|param|name": "",
+    "datalogger.addValue|param|value": "",
+    "datalogger.flush": "",
+    "datalogger.sendToConsole": "",
+    "datalogger.setEnabled": "",
+    "datalogger.setSampleInterval": "",
+    "datalogger.setSampleInterval|param|millis": "",
+    "datalogger.setStorage": ""
+}

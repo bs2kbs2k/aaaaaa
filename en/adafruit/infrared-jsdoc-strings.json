@@ -1,0 +1,17 @@
+{
+    "InfraredPacket.receivedBuffer": "",
+    "InfraredPacket.receivedNumber": "",
+    "InfraredPacket.receivedNumbers": "",
+    "network": "",
+    "network.infraredPacket": "",
+    "network.infraredSendNumber": "",
+    "network.infraredSendNumbers": "",
+    "network.infraredSendNumber|param|value": "",
+    "network.infraredSendPacket": "",
+    "network.onInfraredError": "",
+    "network.onInfraredPacket": "",
+    "network.onInfraredPacketReceived": "",
+    "network.onInfraredReceivedBuffer": "",
+    "network.onInfraredReceivedNumber": "",
+    "network.onInfraredReceivedNumbers": ""
+}

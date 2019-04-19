@@ -1,0 +1,17 @@
+{
+    "brick.clearScreen|block": "",
+    "brick.showImage|block": "",
+    "brick.showNumber|block": "",
+    "brick.showPorts|block": "",
+    "brick.showString|block": "",
+    "brick.showValue|block": "",
+    "brick|block": "",
+    "helpers|block": "",
+    "image|block": "",
+    "{id:category}Brick": "",
+    "{id:category}Control": "",
+    "{id:category}Helpers": "",
+    "{id:category}Image": "",
+    "{id:category}Images": "",
+    "{id:group}Screen": ""
+}

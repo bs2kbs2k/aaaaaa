@@ -1,0 +1,13 @@
+{
+    "DistanceCondition.Far|block": "",
+    "DistanceCondition.Near|block": "",
+    "DistanceUnit.Centimeter|block": "",
+    "DistanceUnit.Decimeter|block": "",
+    "DistanceUnit.Meter|block": "",
+    "DistanceUnit.Millimeter|block": "",
+    "input.distance|block": "",
+    "input.onDistanceConditionChanged|block": "",
+    "input|block": "",
+    "{id:category}Input": "",
+    "{id:group}More": ""
+}

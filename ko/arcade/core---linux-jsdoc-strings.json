@@ -1,0 +1,22 @@
+{
+    "control": "",
+    "control.Timer": "",
+    "control.Timer.millis": "",
+    "control.Timer.pauseUntil": "",
+    "control.Timer.pauseUntil|param|ms": "",
+    "control.Timer.reset": "",
+    "control.Timer.seconds": "",
+    "control.allocateNotifyEvent": "",
+    "control.dmesg": "",
+    "control.raiseEvent": "등록되어있는 이벤트 핸들러들과 관련한 어떤 이벤트가 발생했다는 것을 알립니다.",
+    "control.raiseEvent|param|src": "",
+    "control.raiseEvent|param|value": "",
+    "msgpack.packNumberArray": "",
+    "msgpack.packNumberArray|param|nums": "",
+    "msgpack.unpackNumberArray": "",
+    "pins": "디지털/아날로그 신호, 서보, I2C ... 에서 사용되는 핀의 전류를 제어합니다.",
+    "pins.createBufferFromArray": "",
+    "pins.createBufferFromArray|param|bytes": "다음 값으로 초기화:",
+    "pins.sizeOf": "",
+    "serial.writeDmesg": ""
+}

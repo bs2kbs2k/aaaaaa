@@ -1,0 +1,12 @@
+{
+    "brick.showMood|block": "",
+    "brick|block": "",
+    "console.sendToScreen|block": "",
+    "console|block": "",
+    "moods|block": "",
+    "{id:category}Brick": "벽돌",
+    "{id:category}Console": "명령어창",
+    "{id:category}Images": "이미지",
+    "{id:category}Moods": "",
+    "{id:group}Screen": "Screen"
+}

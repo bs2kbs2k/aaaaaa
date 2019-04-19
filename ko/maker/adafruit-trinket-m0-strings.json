@@ -1,0 +1,14 @@
+{
+    "input.buttonD0|block": "",
+    "input.buttonD1|block": "",
+    "input.buttonD2|block": "",
+    "input.buttonD3|block": "",
+    "input.buttonD4|block": "",
+    "input.touchD1|block": "",
+    "input.touchD3|block": "",
+    "input.touchD4|block": "",
+    "input|block": "입력",
+    "{id:category}Config": "설정",
+    "{id:category}Input": "입력",
+    "{id:category}Pins": "핀"
+}

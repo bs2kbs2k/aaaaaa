@@ -1,0 +1,18 @@
+{
+    "devices": "",
+    "devices.onGamepadButton": "",
+    "devices.onGamepadButton|param|body": "",
+    "devices.onGamepadButton|param|name": "",
+    "devices.onNotified": "",
+    "devices.onNotified|param|body": "",
+    "devices.onNotified|param|event": "",
+    "devices.onSignalStrengthChanged": "",
+    "devices.onSignalStrengthChanged|param|body": "",
+    "devices.raiseAlertTo": "",
+    "devices.raiseAlertTo|param|event": "",
+    "devices.signalStrength": "",
+    "devices.tellCameraTo": "",
+    "devices.tellCameraTo|param|event": "",
+    "devices.tellRemoteControlTo": "",
+    "devices.tellRemoteControlTo|param|event": ""
+}

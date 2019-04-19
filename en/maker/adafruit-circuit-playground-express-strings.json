@@ -1,0 +1,19 @@
+{
+    "input.buttonA|block": "",
+    "input.buttonB|block": "",
+    "input.buttonsAB|block": "",
+    "input.touchA1|block": "",
+    "input.touchA2|block": "",
+    "input.touchA3|block": "",
+    "input.touchA4|block": "",
+    "input.touchA5|block": "",
+    "input.touchA6|block": "",
+    "input.touchA7|block": "",
+    "input|block": "",
+    "light.onboardStrip|block": "",
+    "light|block": "",
+    "{id:category}Config": "",
+    "{id:category}Input": "",
+    "{id:category}Light": "",
+    "{id:category}Pins": ""
+}

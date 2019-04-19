@@ -1,0 +1,16 @@
+{
+    "UltrasonicSensorEvent.ObjectDetected|block": "",
+    "UltrasonicSensorEvent.ObjectNear|block": "",
+    "sensors.UltraSonicSensor.distance|block": "",
+    "sensors.UltraSonicSensor.onEvent|block": "",
+    "sensors.UltraSonicSensor.pauseUntil|block": "",
+    "sensors.UltraSonicSensor.setThreshold|block": "",
+    "sensors.UltraSonicSensor.threshold|block": "",
+    "sensors.ultrasonic1|block": "",
+    "sensors.ultrasonic2|block": "",
+    "sensors.ultrasonic3|block": "",
+    "sensors.ultrasonic4|block": "",
+    "{id:category}Sensors": "",
+    "{id:group}Calibration": "",
+    "{id:group}Ultrasonic Sensor": ""
+}

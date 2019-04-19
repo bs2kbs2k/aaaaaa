@@ -1,0 +1,9 @@
+{
+    "SwitchDirection.Left|block": "",
+    "SwitchDirection.Right|block": "",
+    "input.onSwitchMoved|block": "",
+    "input.switchRight|block": "",
+    "input|block": "",
+    "{id:category}Input": "",
+    "{id:group}Switch": ""
+}

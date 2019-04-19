@@ -1,0 +1,13 @@
+{
+    "Button.isPressed|block": "",
+    "Button.onEvent|block": "",
+    "Button.wasPressed|block": "",
+    "ButtonEvent.Click|block": "클릭",
+    "ButtonEvent.Down|block": "down",
+    "ButtonEvent.LongClick|block": "느린 클릭",
+    "ButtonEvent.Up|block": "up",
+    "{id:category}Button": "버튼",
+    "{id:category}DigitalPin": "디지털 핀",
+    "{id:category}Input": "입력",
+    "{id:group}More": "더 보기"
+}

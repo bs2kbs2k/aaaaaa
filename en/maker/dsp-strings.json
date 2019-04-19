@@ -1,0 +1,11 @@
+{
+    "dsp.MovingAverageFilter.filter|block": "",
+    "dsp.MovingAverageFilter.setLength|block": "",
+    "dsp.movingAverageFilter1|block": "",
+    "dsp.movingAverageFilter2|block": "",
+    "dsp.movingAverageFilter3|block": "",
+    "dsp.movingAverageFilter4|block": "",
+    "dsp|block": "",
+    "{id:category}Dsp": "",
+    "{id:group}Filters": ""
+}

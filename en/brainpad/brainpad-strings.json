@@ -1,0 +1,14 @@
+{
+    "input.buttonDown|block": "",
+    "input.buttonLeft|block": "",
+    "input.buttonRight|block": "",
+    "input.buttonUp|block": "",
+    "input|block": "",
+    "servos.servo1|block": "",
+    "servos.servo2|block": "",
+    "{id:category}Config": "",
+    "{id:category}Images": "",
+    "{id:category}Input": "",
+    "{id:category}Pins": "",
+    "{id:category}Servos": ""
+}

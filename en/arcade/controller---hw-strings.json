@@ -1,0 +1,20 @@
+{
+    "ControllerButtonEvent.Pressed|block": "",
+    "ControllerButtonEvent.Released|block": "",
+    "ControllerButtonEvent.Repeated|block": "",
+    "controller.A|block": "",
+    "controller.Button.isPressed|block": "",
+    "controller.Button.onEvent|block": "",
+    "controller.Button.pauseUntil|block": "",
+    "controller.B|block": "",
+    "controller.anyButton|block": "",
+    "controller.down|block": "",
+    "controller.dx|block": "",
+    "controller.dy|block": "",
+    "controller.left|block": "",
+    "controller.menu|block": "",
+    "controller.right|block": "",
+    "controller.up|block": "",
+    "controller|block": "",
+    "{id:category}Controller": ""
+}

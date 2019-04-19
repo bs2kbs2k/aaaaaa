@@ -1,0 +1,9 @@
+{
+    "network.cableSendNumber|block": "",
+    "network.onCablePacketReceived|block": "",
+    "network.onCableReceivedNumber|block": "",
+    "network|block": "",
+    "{id:category}CablePacket": "",
+    "{id:category}Network": "",
+    "{id:group}Cable": ""
+}

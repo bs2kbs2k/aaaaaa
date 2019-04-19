@@ -1,0 +1,12 @@
+{
+    "brick.showMood|block": "",
+    "brick|block": "",
+    "console.sendToScreen|block": "",
+    "console|block": "",
+    "moods|block": "",
+    "{id:category}Brick": "",
+    "{id:category}Console": "",
+    "{id:category}Images": "",
+    "{id:category}Moods": "",
+    "{id:group}Screen": ""
+}

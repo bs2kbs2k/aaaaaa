@@ -1,0 +1,12 @@
+{
+    "sensors.TouchSensor.isPressed|block": "",
+    "sensors.TouchSensor.onEvent|block": "",
+    "sensors.TouchSensor.pauseUntil|block": "",
+    "sensors.TouchSensor.wasPressed|block": "",
+    "sensors.touch1|block": "",
+    "sensors.touch2|block": "",
+    "sensors.touch3|block": "",
+    "sensors.touch4|block": "",
+    "{id:category}Sensors": "",
+    "{id:group}Touch Sensor": ""
+}

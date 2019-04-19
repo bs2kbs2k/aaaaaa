@@ -1,0 +1,23 @@
+{
+    "Dart.angleRate|block": "",
+    "Dart.angle|block": "",
+    "Dart.controlWithArrowKeys|block": "",
+    "Dart.gravity|block": "",
+    "Dart.iter|block": "",
+    "Dart.powerRate|block": "",
+    "Dart.pow|block": "",
+    "Dart.setTrace|block": "",
+    "Dart.sprite|block": "",
+    "Dart.stopDart|block": "",
+    "Dart.throwDart|block": "",
+    "Dart.traceColor|block": "",
+    "Dart.updateBackground|block": "",
+    "Dart.wind|block": "",
+    "darts.create|block": "",
+    "darts|block": "",
+    "{id:category}Dart": "",
+    "{id:category}Darts": "",
+    "{id:group}Actions": "액션",
+    "{id:group}Create": "",
+    "{id:group}Properties": "속성"
+}
